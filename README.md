@@ -7,9 +7,11 @@ In the terminal do simply:
 `git clone https://github.com/lontelis/AofEFT.git`
 
 then:
+
 `ipython`
 
 finally in the ipython interactive interface do:
+
 `run action_EFT.py`
 
 Note that this code has dependency on: 
